@@ -1,0 +1,9 @@
+.vs/
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+logs/
+output/
+*.xlsx

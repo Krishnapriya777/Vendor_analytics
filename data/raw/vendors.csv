@@ -1,0 +1,16 @@
+vendor_id,vendor_name,category,gstin,state,city,onboarded_date,payment_terms_days,contact_email
+V001,TechNova Solutions,IT Services,27AABCT1332L1ZV,Maharashtra,Mumbai,2022-01-15,30,accounts@technova.in
+V002,PrimePack Manufacturing,Manufacturing,33AAKCP4567M1ZQ,Tamil Nadu,Chennai,2021-06-10,45,finance@primepack.com
+V003,Skylink Logistics,Logistics,29AADCS8901N1ZR,Karnataka,Bangalore,2022-03-22,30,billing@skylink.in
+V004,DataBridge Consulting,Consulting,07AABCD2345P1ZS,Delhi,New Delhi,2021-11-05,15,ar@databridge.com
+V005,Apex Components,Manufacturing,24AACCA6789Q1ZT,Gujarat,Ahmedabad,2020-08-18,60,payments@apexcomp.in
+V006,CloudServe IT,IT Services,27AABCC3456R1ZU,Maharashtra,Pune,2023-01-10,30,invoice@cloudserve.in
+V007,FastMove Logistics,Logistics,33AADCF7890S1ZV,Tamil Nadu,Coimbatore,2022-07-14,30,accounts@fastmove.in
+V008,GenTech IT,IT Services,36AABCG1234T1ZW,Telangana,Hyderabad,2021-04-20,45,finance@gentech.in
+V009,OldParts Manufacturing,Manufacturing,27AACMO5678U1ZX,Maharashtra,Nagpur,2019-12-01,60,billing@oldparts.in
+V010,SlowShip Logistics,Logistics,09AADCS9012V1ZY,Uttar Pradesh,Lucknow,2020-05-30,30,ar@slowship.in
+V011,InfraCore IT,IT Services,29AABCI2468W1ZZ,Karnataka,Bangalore,2022-09-15,30,accounts@infracore.in
+V012,SteelForge Mfg,Manufacturing,24AACCS3579X1ZA,Gujarat,Surat,2021-02-28,45,finance@steelforge.in
+V013,QuickCargo Logistics,Logistics,06AADCQ4680Y1ZB,Haryana,Gurugram,2023-03-01,30,billing@quickcargo.in
+V014,StratEdge Consulting,Consulting,27AABCS5791Z1ZC,Maharashtra,Mumbai,2022-05-12,15,ar@stratedge.com
+V015,RawMat Suppliers,Raw Materials,08AACMR6802A2ZD,Rajasthan,Jaipur,2020-10-08,60,accounts@rawmat.in
