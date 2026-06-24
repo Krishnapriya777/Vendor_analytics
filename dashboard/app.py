@@ -173,7 +173,7 @@ with tab4:
         return colors.get(val, "")
 
     st.dataframe(
-        flags[["severity","flag","vendor_name","detail"]].style.applymap(
+        flags[["severity","flag","vendor_name","detail"]].style.map(
             color_severity, subset=["severity"]
         ),
         use_container_width=True, hide_index=True,
